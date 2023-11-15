@@ -20,12 +20,12 @@ Welcome to the Bulldozer Price Prediction Model repository! This project aims to
 ## 🛠️ Tech Stack
 
 - Python 🐍
-- Libraries: NumPy, Pandas, Matplotlib, Scikit-Learn
+- Libraries: NumPy, Pandas, Matplotlib, Scikit-Learn.
 
 ## 🏁 Getting Started
 
 1. Clone this repository to your local machine 🖥️.
-2. Install the required Python packages using the following command:
+2. Install the required Python packages using the following command.
 3. Run the Jupyter Notebook or Python script to train the model and make predictions 🏃‍♀️.
 
 ## 🚀 How to Use
